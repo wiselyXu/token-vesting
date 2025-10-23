@@ -26,7 +26,7 @@ cd <repo-name>
 ```shell
 npm install
 ```
-
+# pnpm install is ok?
 #### Start the web app
 
 ```
