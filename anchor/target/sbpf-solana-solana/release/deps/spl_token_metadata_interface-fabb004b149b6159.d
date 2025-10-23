@@ -1,0 +1,10 @@
+/opt/workspace/solana/test3beta4/anchor/target/sbpf-solana-solana/release/deps/spl_token_metadata_interface-fabb004b149b6159.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/opt/workspace/solana/test3beta4/anchor/target/sbpf-solana-solana/release/deps/libspl_token_metadata_interface-fabb004b149b6159.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/opt/workspace/solana/test3beta4/anchor/target/sbpf-solana-solana/release/deps/spl_token_metadata_interface-fabb004b149b6159.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs:

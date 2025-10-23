@@ -1,0 +1,1 @@
+pub const DISCRIMITATOR_LEN: usize = 8;

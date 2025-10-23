@@ -3,9 +3,21 @@
   "version": "0.0.1",
   "dependencies": {
     "@coral-xyz/anchor": "^0.30.0",
-    "@solana/web3.js": "1.91.8"
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.95.5",
+    "anchor-bankrun": "^0.5.0",
+    "solana-bankrun": "^0.4.0",
+    "spl-token-bankrun": "^0.2.6"
   },
   "main": "./index.cjs",
   "module": "./index.js",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@types/chai": "^5.2.3",
+    "@types/jest": "^30.0.0",
+    "@types/mocha": "^10.0.10",
+    "chai": "^6.2.0",
+    "mocha": "^11.7.4",
+    "ts-node": "^10.9.2"
+  }
 }
